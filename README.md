@@ -45,3 +45,19 @@ As a test assignment, you are to explore data from an online gift shop. The shop
 
 ## Step 7: Conduct Additional Research (optional)
     Investigate which products are most frequently purchased together.
+
+## Data Description
+
+    entry_date: Date of the record.
+    order_id: Order identification number.
+    customer_id: Customer identification number.
+    quantity: Quantity.
+    price: Price.
+    name_clust: Automatically assigned group based on the name.
+    entry_id: Record identification number.
+    country_id: Country identification number.
+
+Text Description of Records: Download the file from this link.
+
+    entry_id: Record identification number.
+    entry: Record description.
