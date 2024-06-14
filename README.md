@@ -2,7 +2,7 @@
 Project Description
 As a test assignment, you are to explore data from an online gift shop. The shop frequently ships items by mail and works with both wholesale and retail customers. You should use Python for data analysis to demonstrate your ability to independently solve tasks related to data exploration, customer segmentation, and hypothesis testing.
 
-Project Execution Instructions
+## Project Execution Instructions
 
 ## Step 1: Data Acquisition, Inspection, and Merging
 
@@ -34,14 +34,14 @@ Project Execution Instructions
     Evaluate the resulting groups, identifying similarities and differences.
     Formulate business recommendations for interacting with these segments, accompanied by appropriate graphs and tables.
 
-Step 5: Test Statistical Hypotheses
+## Step 5: Test Statistical Hypotheses
 
     Compare the proportions of repeat and non-repeat customers for the second and third quarters of 2019 using an appropriate statistical test.
     Compare the average checks in countries with 'country_id' equal to 3, 6, and 24. Based on statistical tests, conclude whether the average checks in these countries differ.
     Formulate and test your own hypothesis.
 
 ## Step 6: Write a General Conclusion
-Describe the results obtained and provide a final conclusion of the study.
+    Describe the results obtained and provide a final conclusion of the study.
 
 ## Step 7: Conduct Additional Research (optional)
-Investigate which products are most frequently purchased together.
+    Investigate which products are most frequently purchased together.
