@@ -47,7 +47,8 @@ As a test assignment, you are to explore data from an online gift shop. The shop
     Investigate which products are most frequently purchased together.
 
 ## Data Description
-
+    Main Dataset
+    
     entry_date: Date of the record.
     order_id: Order identification number.
     customer_id: Customer identification number.
@@ -57,7 +58,7 @@ As a test assignment, you are to explore data from an online gift shop. The shop
     entry_id: Record identification number.
     country_id: Country identification number.
 
-Text Description of Records: Download the file from this link.
+    Text Description of Records:
 
     entry_id: Record identification number.
     entry: Record description.
